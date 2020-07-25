@@ -1,3 +1,3 @@
-# Purdue
+# Test
 
-This repository contains programming assignments done at Purdue University.
+This repository contains programming assignments at test by myself.
