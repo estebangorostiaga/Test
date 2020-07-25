@@ -1,5 +1,5 @@
 p = 20
 i = 1
 while i < p:
-    print("This works {%d} times",i)
+    print("This works times",i)
     i += 1
